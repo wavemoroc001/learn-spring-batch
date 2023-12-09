@@ -2,4 +2,4 @@
 
 This Project is a Spring Batch Example from my learning
 
- - [x] Simple Spring Batch Job
+ - [x] Bulk Insert Customer Batch
