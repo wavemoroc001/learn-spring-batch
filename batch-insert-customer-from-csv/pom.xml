@@ -11,7 +11,7 @@
     <groupId>org.example</groupId>
     <artifactId>learn-spring-batch-csv</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>learn-spring-batch-csv</name>
+    <name>batch-insert-customer-from-csv</name>
     <description>batch-insert-customer-from-csv</description>
     <properties>
         <java.version>17</java.version>
