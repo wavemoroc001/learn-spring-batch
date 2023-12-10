@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/learn-spring-batch-csv.iml" filepath="$PROJECT_DIR$/.idea/learn-spring-batch-csv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn-spring-batch.iml" filepath="$PROJECT_DIR$/.idea/learn-spring-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/batch-insert-customer-from-csv/learn-spring-batch-csv.iml" filepath="$PROJECT_DIR$/batch-insert-customer-from-csv/learn-spring-batch-csv.iml" />
     </modules>
   </component>
 </project>
